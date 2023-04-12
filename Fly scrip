@@ -27,7 +27,7 @@ up.Parent = Frame
 up.BackgroundColor3 = Color3.fromRGB(79, 255, 152)
 up.Size = UDim2.new(0, 44, 0, 28)
 up.Font = Enum.Font.SourceSans
-up.Text = "UP"
+up.Text = "فـًٌٍّ̨̥̬̩ـوٌقـًٌٍّ̨̥̬̩ـ"
 up.TextColor3 = Color3.fromRGB(0, 0, 0)
 up.TextSize = 14.000
 
@@ -37,7 +37,7 @@ down.BackgroundColor3 = Color3.fromRGB(215, 255, 121)
 down.Position = UDim2.new(0, 0, 0.491228074, 0)
 down.Size = UDim2.new(0, 44, 0, 28)
 down.Font = Enum.Font.SourceSans
-down.Text = "DOWN"
+down.Text = "آسـًٌٍّ̨̥̬̩ـفـًٌٍّ̨̥̬̩ـلَ"
 down.TextColor3 = Color3.fromRGB(0, 0, 0)
 down.TextSize = 14.000
 
@@ -136,8 +136,8 @@ local hum = chr and chr:FindFirstChildWhichIsA("Humanoid")
 nowe = false
 
 game:GetService("StarterGui"):SetCore("SendNotification", { 
-	Title = "Fly GUI V3";
-	Text = "NAVK تـًٌٍّ̨̥̬̩ـمـًٌٍّ̨̥̬̩ـتـًٌٍّ̨̥̬̩ـ آلَصـًٌٍّ̨̥̬̩ـنـًٌٍّ̨̥̬̩ـآعـًٌٍّ̨̥̬̩ـهّ مـًٌٍّ̨̥̬̩ـنـًٌٍّ̨̥̬̩ـ قـًٌٍّ̨̥̬̩ـبـًٌٍّ̨̥̬̩ـلَ تـًٌٍّ̨̥̬̩ـيـًٌٍّ̨̥̬̩ـمـًٌٍّ̨̥̬̩ـ";
+	Title = "حقوق الطبع والنشر";
+	Text = "x||Mohummed_1347تـًٌٍّ̨̥̬̩ـمـًٌٍّ̨̥̬̩ـتـًٌٍّ̨̥̬̩ـ آلَصـًٌٍّ̨̥̬̩ـنـًٌٍّ̨̥̬̩ـآعـًٌٍّ̨̥̬̩ـهّ مـًٌٍّ̨̥̬̩ـنـًٌٍّ̨̥̬̩ـ قـًٌٍّ̨̥̬̩ـبـًٌٍّ̨̥̬̩ـلَ ";
 	Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150"})
 Duration = 5;
 
